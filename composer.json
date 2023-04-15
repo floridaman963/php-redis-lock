@@ -1,0 +1,17 @@
+{
+    "name": "floridaman963/php-redis-lock",
+    "description": "this is distribute lock based on php and redis",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Floridaman963\\PhpRedisLock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "floridaman963"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
